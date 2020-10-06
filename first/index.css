@@ -1,0 +1,29 @@
+.top {
+    background-color:black;
+    height: 10vh;
+    width: 100vw;
+}
+
+.bottom {
+    background-color: black;
+    height: 5vh;
+    width: 80vw;
+    position: fixed;
+    bottom: 0;
+    left: 10vw;
+    
+}
+
+.left {
+    background-color: lightgray;
+    height: 100vh;
+    width: 10vw;
+    float: left;
+}
+
+.right {
+    background-color: lightgray;
+    height: 100vh;
+    width: 10vw;
+    float: right;
+}
